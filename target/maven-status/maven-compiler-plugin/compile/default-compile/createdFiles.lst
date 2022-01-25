@@ -1,0 +1,14 @@
+searcher\processes\processesif\SearchProcessIf.class
+searcher\processes\processesimpl\SearchProcessImpl.class
+searcher\exceptions\ArgException.class
+searcher\instantiations\Setup.class
+searcher\operations\operationsimpl\XlsMemoryLoaderImpl.class
+searcher\drivers\Exec.class
+searcher\operations\operationsif\FileLoaderPathIf.class
+searcher\operations\operationsif\XlsMemoryLoaderIf.class
+searcher\operations\operationsif\SearcherIf.class
+searcher\operations\operationsimpl\SearcherImpl.class
+searcher\operations\operationsimpl\FileLoaderPathImpl.class
+searcher\instantiations\StaticFactory.class
+searcher\operations\operationsimpl\ProducerImpl.class
+searcher\operations\operationsif\ProducerIf.class
